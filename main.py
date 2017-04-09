@@ -1,3 +1,8 @@
+#Code is heavily modified from an initial file provided by Patrick Pilarski (BLINC Lab) at the University of Alberta
+#Author: Michael Disyak
+#April 9, 2017
+
+
 import myLib as myLib
 import threading
 import random

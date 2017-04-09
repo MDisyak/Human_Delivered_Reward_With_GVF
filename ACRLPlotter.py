@@ -1,3 +1,7 @@
+#Code is slightly modified from an initial file provided by Patrick Pilarski (BLINC Lab) at the University of Alberta
+#Author: Michael Disyak
+#April 9, 2017
+
 import myLib
 import matplotlib.pyplot as plt
 import datetime
